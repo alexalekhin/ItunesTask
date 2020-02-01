@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simple Itunes Search</string>
+    <string name="msg_network_unavailable">Сеть недоступна, проверьте подключение.</string>
+    <string name="label_retry">Повторить</string>
+    <string name="label_go_back">Назад</string>
+</resources>
